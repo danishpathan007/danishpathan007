@@ -61,32 +61,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danishpathan007&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishpathan007&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=danishpathan007&theme=tokyonight" />
 </p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danishpathan007&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
 
 ---
 
