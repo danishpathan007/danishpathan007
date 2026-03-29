@@ -64,8 +64,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danishpathan007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishpathan007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danishpathan007&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishpathan007&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=danishpathan007&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=danishpathan007&theme=radical" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danishpathan007&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=danishpathan007&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 ---
